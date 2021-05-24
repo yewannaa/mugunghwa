@@ -1,2 +1,6 @@
 #ignore
 db.sqlite3
+
+#ignore folder
+myvenv/
+mysite/__pycache__/
