@@ -4,3 +4,4 @@ db.sqlite3
 #ignore folder
 myvenv/
 mysite/__pycache__/
+blog/__pycache__/
