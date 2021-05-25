@@ -1,8 +1,10 @@
-
-
 html { 
     background-color: #0B004C;
+    color: white;
 }
 h1 a {
     color: #FA0005;
+}
+img {
+    width: 300px;
 }
