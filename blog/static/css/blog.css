@@ -47,3 +47,7 @@ body {
   display: grid;
   place-items: center;
 }
+.menu .p {
+    text-align: center;
+    font-size: 2rem;
+}
